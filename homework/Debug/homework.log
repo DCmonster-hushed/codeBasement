@@ -1,0 +1,6 @@
+﻿  caculate.cpp
+E:\c++ projects\homework\caculate.cpp(11,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\c++ projects\homework\caculate.cpp(43,11): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\c++ projects\homework\caculate.cpp(42,57): warning C4101: “resultCheck”: 未引用的局部变量
+E:\c++ projects\homework\caculate.cpp(42,45): warning C4101: “userResult”: 未引用的局部变量
+  homework.vcxproj -> E:\c++ projects\homework\Debug\homework.exe
